@@ -80,6 +80,7 @@ def protect_gitlab_branch(branch_name):
         print(f'Ветка {branch_name} защищена.')
     else:
         print(f'Ошибка при защите ветки: {response.text}')
+```
 
 
 ### migration_repo.py
