@@ -40,12 +40,12 @@
 3. Настройте конфигурацию, добавив свои токены доступа и идентификаторы проектов в переменные, указанные в начале файла скрипта:
 
         GOGS_URL = 'https://example.com/api/v1'
-    GOGS_TOKEN = 'your_gogs_token'
-    GITLAB_URL = 'https://gitlab.example.com/api/v4'
-    GITLAB_TOKEN = 'your_gitlab_token'
-    REPO_OWNER = 'repo_owner'
-    REPO_NAME = 'repo_name'
-    GITLAB_PROJECT_ID = 'project_id'
+        GOGS_TOKEN = 'your_gogs_token'
+        GITLAB_URL = 'https://gitlab.example.com/api/v4'
+        GITLAB_TOKEN = 'your_gitlab_token'
+        REPO_OWNER = 'repo_owner'
+        REPO_NAME = 'repo_name'
+        GITLAB_PROJECT_ID = 'project_id'
     
 
 ## Использование
